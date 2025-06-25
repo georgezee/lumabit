@@ -1,7 +1,7 @@
 **Title:** "Design with Canva"  
 **Slug:** "canva-design"  
 **Language:** "en"  
-**Order: 1  
+**Order:** 1  
 **Skills:**  
 - design  
 
@@ -26,5 +26,5 @@ They’ll practice sequencing, loops, and debugging by solving increasingly comp
 - Use a projector to demonstrate Level 1 and Level 5.
 - Allow learners to retry if they fail. Encourage exploration.
 
-**Lessons:**
+**Lessons:**  
 ![01-lesson-canva-thank-you-card.md](./01-lesson-canva-thank-you-card.md)

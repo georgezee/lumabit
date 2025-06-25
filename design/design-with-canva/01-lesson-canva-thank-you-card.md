@@ -100,7 +100,7 @@ Learning to spot what’s free vs. paid is a great digital skill, and it also te
   Example: She used a fancy font to make her card look elegant.
 
 **Screenshots:**
-![canva-thank-you-card-edit-design.webp](/screenshots/canva-thank-you-card-edit-design.webp)
-![canva-thank-you-card-search-design.webp](/screenshots/canva-thank-you-card-search-design.webp)
-![canva-thank-you-card-search-result.webp](/screenshots/canva-thank-you-card-search-result.webp)
+![canva-thank-you-card-edit-design.webp](./screenshots/canva-thank-you-card-edit-design.webp)
+![canva-thank-you-card-search-design.webp](./screenshots/canva-thank-you-card-search-design.webp)
+![canva-thank-you-card-search-result.webp](./screenshots/canva-thank-you-card-search-result.webp)
 ---

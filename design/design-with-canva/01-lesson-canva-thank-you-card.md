@@ -1,36 +1,7 @@
----
-**title:** "Design with Canva"  
-**slug:** "canva-design"  
-**language:** "en"  
-**order: 1  
-**skills:**  
-- design  
-
-**prerequisites:**  
-- account-signup
-
-**resources:**
-- name: Canva.com  
-  website: https://www.canva.com/  
-  description: Canva is a free online design tool that lets you create posters, cards, and other graphics easily.
-  sign_in_needed: true  
-  sign_in_type: "Google/Email"  
-  sign_in_link: https://www.canva.com/login/  
-  notes: "Canva is free to use for a wide range of designs. "  
-
-**intro:**  
-In this topic, learners are introduced to programming logic using Blockly's maze puzzles.
-They’ll practice sequencing, loops, and debugging by solving increasingly complex mazes.
-
-**teacher_notes:**    
-- Ensure learners understand the block types.
-- Use a projector to demonstrate Level 1 and Level 5.
-- Allow learners to retry if they fail. Encourage exploration.
----
-
 ## Lesson: Design a Thank you card
 
-**Slug:** thank-you-card  
+**Topic:** canva-design
+**Slug:** lesson-canva-thank-you-card
 **Duration:** 30 to 60 minutes  
 **URL:** https://www.canva.com/login  
 

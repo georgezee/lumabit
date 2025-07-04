@@ -1,6 +1,6 @@
 ## Lesson: Design a Thank you card
 
-**Topic:** canva-design
+**Topic:** design
 **Slug:** lesson-canva-thank-you-card
 **Duration:** 30 to 60 minutes  
 **URL:** https://www.canva.com/login  

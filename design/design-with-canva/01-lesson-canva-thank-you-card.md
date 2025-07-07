@@ -9,6 +9,9 @@
 In this lesson you will learn how to create a Thank you card with Canva. Canva is a free online design tool that can be used to make many different designs, birthday cards, posters or brochures.
 Think of a real person who has helped you recently and design the card just for them.
 
+**Video:**
+https://www.youtube.com/watch?v=e1WAMzAMJUs
+
 **Content:**
 1. Login with an account
     - Go to canva.com and sign up for an account or login. [Tip: If you have a Google account, you can use this to quickly sign up to Canva.]
